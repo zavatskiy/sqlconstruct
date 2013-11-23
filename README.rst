@@ -261,7 +261,7 @@ To install `SQLConstruct`, simply::
 
     pip install https://github.com/vmagamedov/sqlconstruct/archive/master.zip
     
-or 
+or::
     
     pip install -e git://github.com/vmagamedov/sqlconstruct#egg=SQLConstruct
 
